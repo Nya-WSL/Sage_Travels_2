@@ -160,3 +160,5 @@ game/cache/bytecode-39.rpyb
 game/saves/navigation.json
 game/saves/persistent
 game/saves/persistent
+*.bak
+*.save
